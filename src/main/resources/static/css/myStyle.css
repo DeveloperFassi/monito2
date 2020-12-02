@@ -1,0 +1,28 @@
+.spacer{
+	margin-top: 40px;
+}
+
+#tableSageFichier tr.header, #tableSageFichier tr:hover,
+#tableSageFichierLines tr.header, #tableSageFichierLines tr:hover,
+#tableSageFichierNonTraiter tr.header, #tableSageFichierNonTraiter tr:hover,
+#tableSageFichierOui tr.header, #tableSageFichierOui tr:hover,
+#tableSageFichierLinesOui tr.header, #tableSageFichierLinesOui tr:hover
+{
+  background-color: #e1e1e1;
+}
+
+#viewDiv {
+	padding: 0;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+	overflow: hidden;
+}
+#loading {
+	/* width: 40px;
+	height: 40px; */
+	margin: 0;
+	position: absolute;
+	top: 90%;  
+	
+}
